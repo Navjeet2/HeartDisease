@@ -80,8 +80,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Joblib, Streamlit
 ## How to Run
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
 pip install numpy pandas matplotlib seaborn scikit-learn joblib streamlit
 ```
 
